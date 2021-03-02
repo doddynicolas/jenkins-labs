@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Mar 02 2021 11:31:44 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* src/main/java/be/businesstraining/domain/DateTime.java
+
+
+Created files:
+* .autogit/autogit.json
+* src/Jenkinsfile
+
+
+Deleted files:
+
+
+Renamed files:
