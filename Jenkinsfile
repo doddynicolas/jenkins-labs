@@ -9,7 +9,7 @@ pipeline {
     	 
 	   stage ('Clone') {
             steps {
-                git branch: 'main', url: "https://github.com/doddynicolas/jenkins-labs"
+                git branch: 'master', url: "https://github.com/doddynicolas/jenkins-labs"
             }
 	    }
 	 
